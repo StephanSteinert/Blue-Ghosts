@@ -1,0 +1,7 @@
+Version: 0.16.1
+Date: 2018-01-29
+  Feature:
+    - Added a setting to adjust brightness of the color.
+---------------------------------------------------------------------------------------------------
+Version: 0.16.0
+Date: 2018-01-21
