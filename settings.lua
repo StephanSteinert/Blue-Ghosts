@@ -38,10 +38,39 @@ data:extend({
       },
       -- Mining Drill Area
       {
-         type = "bool-setting",
-         name = "blue-ghosts-drill-area",
+         type = "double-setting",
+         name = "blue-ghosts-drill-area-r",
          setting_type = "startup",
-         default_value = true,
+         minimum_value = 0,
+         maximum_value = 1,
+         default_value = 0.0,
          order = "e"
+      },
+      {
+         type = "double-setting",
+         name = "blue-ghosts-drill-area-g",
+         setting_type = "startup",
+         minimum_value = 0,
+         maximum_value = 1,
+         default_value = 0.0,
+         order = "f"
+      },
+      {
+         type = "double-setting",
+         name = "blue-ghosts-drill-area-b",
+         setting_type = "startup",
+         minimum_value = 0,
+         maximum_value = 1,
+         default_value = 0.8,
+         order = "g"
+      },
+      {
+         type = "double-setting",
+         name = "blue-ghosts-drill-area-alpha",
+         setting_type = "startup",
+         minimum_value = 0,
+         maximum_value = 1,
+         default_value = 0.3,
+         order = "h"
       },
 })

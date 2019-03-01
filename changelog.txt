@@ -1,3 +1,8 @@
+Version: 0.17.1
+Date: 2019-03-02
+  Feature:
+    - Mining drill area color is now changeable completely.
+---------------------------------------------------------------------------------------------------
 Version: 0.17.0
 Date: 2019-03-01
   Feature:
