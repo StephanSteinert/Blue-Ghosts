@@ -1,12 +1,20 @@
+Version: 0.17.0
+Date: 2019-03-01
+  Feature:
+    - Update to 0.17
+    - Added blueish alternative for mining drill area display. Can be disabled under settings.
+    - Minor localisation changes.
+    - German locale added.
+---------------------------------------------------------------------------------------------------
 Version: 0.16.2
-Date: 2018-02-18
+Date: 2019-02-18
   Feature:
     - Added settings for RGB.
 ---------------------------------------------------------------------------------------------------
 Version: 0.16.1
-Date: 2018-01-29
+Date: 2019-01-29
   Feature:
     - Added a setting to adjust brightness of the color.
 ---------------------------------------------------------------------------------------------------
 Version: 0.16.0
-Date: 2018-01-21
+Date: 2019-01-21
